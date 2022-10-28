@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://neutr00n.github.io/team-played-project",
+  "homepage": "https://neutr00n.github.io/team-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-played-project/"
+    "build": "parcel build src/*.html --public-url /team-project/"
   },
   "repository": {
     "type": "git",
