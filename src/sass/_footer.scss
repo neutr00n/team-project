@@ -1,0 +1,32 @@
+.footer {
+   background-color: #dcdcdc;
+   padding:15px;
+}
+
+.footer__list {
+    display: flex;
+
+
+}
+
+.footer__item {
+    margin: 100px;
+    color: aqua;
+    text-decoration: overline;
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
+    &:hover,
+        &:focus {
+            color: rebeccapurple;
+        }
+}
+
+
+
+
+.footer__item-link {
+display: block;
+position: relative;
+font-size: 14; 
+
+}
